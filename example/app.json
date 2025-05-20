@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "RNMapboxGLExample",
+    "displayName": "RNMapboxGLExample",
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "experiments": {
+      "baseUrl": "/example-app"
+    }
+  }
+}
